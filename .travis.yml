@@ -3,4 +3,4 @@ compiler:
   - gcc
   - clang
 
-script: ./configue && make
+script: ./configure && make
