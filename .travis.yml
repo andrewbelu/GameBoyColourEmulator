@@ -3,4 +3,4 @@ compiler:
   - gcc
   - clang
 
-script: ./configure && make
+script: ./configure && make && ./gameboy.exe
